@@ -1,0 +1,12 @@
+#header {display:none;}
+#printheader {display:block; text-align:center; float:none; padding-top:50px; padding-bottom:0;}
+.printonly {display:block;} 
+#resume {
+width: auto;
+margin: 0;
+padding: 25pt;
+border: 0;
+float: none;
+color: black;
+background: transparent none;
+}
