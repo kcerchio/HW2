@@ -1,7 +1,9 @@
-#nav { text-align: center; padding: 7px 12px; background-color:red;} 
+#nav { text-align: center; padding: 7px 12px; background-color:red; border: 1px solid red;} 
 #nav li {display: inline; list-style-type: none; padding-right: 20pc; font-size: 14pt; font-weight: normal; font-variant: small-caps;}
-#header {text-align: center; background-color: yellow; }
-#body {background-color:#80E6FF;}
-#footer{text-align: center; font-style: italic; background-color:#FFCC00;}
+header {text-align: center; background-color: yellow; border: 1px solid yellow;}
+#main {background-color:#80E6FF;  border: 1px solid #80E6FF;}
+#footer{text-align: center; font-style: italic; background-color:#FFCC00; border: 1px solid #FFCC00;}
 .picture {border: solid 1px black; background: #fff; width: 250px; padding:20px; margin-right:auto; margin-left:auto; margin-top: 10px; margin-bottom: 20px;}
 #resume {text-align:center-left;}
+#about {text-align: center;}
+#list {text-align: center-right;}
